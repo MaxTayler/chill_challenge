@@ -128,8 +128,8 @@ instance_create(global.X,global.Y,obj_chill_challenge_engine);// create game eng
 global.move_event_p1 = 0;
 global.move_event_p2 = 0;
 
-global.mute = 0;
-global.sfx = 0;
+global.mute = 1;
+global.sfx = 1;
 
 instance_create(global.X,global.Y,obj_sound_engine);// create game engine 
 

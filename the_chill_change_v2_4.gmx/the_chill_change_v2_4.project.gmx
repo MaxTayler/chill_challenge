@@ -8,6 +8,7 @@
     <sound>sound\snd_song1</sound>
     <sound>sound\sound1</sound>
     <sound>sound\sound2</sound>
+    <sound>sound\snd_chill_song</sound>
   </sounds>
   <sprites name="sprites">
     <sprite>sprites\spr_heart_p2</sprite>

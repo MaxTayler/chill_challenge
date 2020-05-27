@@ -28,12 +28,6 @@
             <string>score_p1 = 1;
 score_p2 = 1;
 
-// start song 
-audio_play_sound(snd_song1,1,true);
-if global.mute = 1
-{audio_sound_gain(snd_song1,1,3000);}
-else
-{audio_sound_gain(snd_song1,0,3000);}
 
 </string>
           </argument>

@@ -290,7 +290,6 @@ quit = 0;
       //reset heart rate data table for
     global.win = 0;     
     
-    audio_stop_sound(snd_song1); 
      global.game_state = 1;         
     quit = 0;
         break;  
